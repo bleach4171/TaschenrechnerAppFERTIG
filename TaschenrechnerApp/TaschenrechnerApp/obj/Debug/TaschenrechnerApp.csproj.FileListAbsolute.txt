@@ -1,0 +1,10 @@
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\TaschenrechnerApp.exe.config
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\TaschenrechnerApp.exe
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\bin\Debug\TaschenrechnerApp.pdb
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.Form1.resources
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.Properties.Resources.resources
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.exe
+C:\Users\ahmad\source\repos\TaschenrechnerApp\TaschenrechnerApp\obj\Debug\TaschenrechnerApp.pdb
