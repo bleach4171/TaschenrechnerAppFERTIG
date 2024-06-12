@@ -97,7 +97,7 @@ namespace TaschenrechnerApp
                     case "log":
                         ergebnis = rechner.Logarithmus(zahl);
                         break;
-                    case "!":
+                    case "n!":
                         ergebnis = rechner.Fakultaet(zahl);
                         break;
                 }
